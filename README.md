@@ -4,7 +4,7 @@ This simulator is the effect of [engineering thesis](https://github.com/matb4r/p
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Qwm_4tMCfNU/0.jpg)](https://www.youtube.com/watch?v=Qwm_4tMCfNU)
 
-Compile:
+Compiling:
 ```
 g++ main.cpp -lGL -lGLEW -lglfw -ltbb -lSOIL -o nbody
 ```
