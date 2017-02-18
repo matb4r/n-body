@@ -4,12 +4,12 @@ This simulator is the effect of [engineering thesis](https://github.com/matb4r/p
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Qwm_4tMCfNU/0.jpg)](https://www.youtube.com/watch?v=Qwm_4tMCfNU)
 
-Compiling:
+### Compiling:
 ```
 g++ main.cpp -lGL -lGLEW -lglfw -ltbb -lSOIL -o nbody
 ```
 
-Parameters:
+### Parameters:
 
 |Parameter|Default|Description|
 |-------------|-------------|-------------|
@@ -22,14 +22,14 @@ Parameters:
 |-f|-|Fullscreen mode|
 |-h|-|Print help|
 
-Mouse:
+### Mouse:
 
 | Action        | Effect           |
 | ------------- |-------------|
 |Move|Change orientation of the camera|
 |Scrolling|Change field of view|
 
-Keyboard:
+### Keyboard:
 
 | Key        | Effect           |
 | ------------- |-------------|
