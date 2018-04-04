@@ -2,7 +2,9 @@
 
 This simulator is the effect of [engineering thesis](https://github.com/matb4r/praca-inzynierska).
 
-[![](http://img.youtube.com/vi/Qwm_4tMCfNU/0.jpg)](https://www.youtube.com/watch?v=Qwm_4tMCfNU)
+[![](http://img.youtube.com/vi/yqAki8YpNNI/0.jpg)](https://www.youtube.com/watch?v=yqAki8YpNNI)
+
+https://www.youtube.com/watch?v=yqAki8YpNNI
 
 ### Compiling:
 ```
