@@ -94,7 +94,7 @@ int main(int argc, char* argv[])
 					"\n\t-c [compute mode] : compute mode (0-1); default = 1"
 					"\n\t-d [width] [height] : window width and height; default = 800 600"
 					"\n\t-f : fullscreen mode"
-					"\n\t-h : show this help";
+					"\n\t-h : show this help\n";
 			return 0;
 		}
 
