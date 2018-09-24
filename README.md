@@ -6,7 +6,7 @@ This simulator is the effect of [engineering thesis](https://github.com/matb4r/p
 
 https://www.youtube.com/watch?v=yqAki8YpNNI
 
-### Compiling:
+### Compile:
 ```
 g++ main.cpp -lGL -lGLEW -lglfw -ltbb -lSOIL -o nbody
 ```
