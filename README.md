@@ -1,6 +1,6 @@
 # Particle system: n-body simulator
 
-This simulator is the effect of [engineering thesis](https://github.com/matb4r/praca-inzynierska).
+This simulator is the effect of engineering thesis.
 
 [![](http://img.youtube.com/vi/yqAki8YpNNI/0.jpg)](https://www.youtube.com/watch?v=yqAki8YpNNI)
 

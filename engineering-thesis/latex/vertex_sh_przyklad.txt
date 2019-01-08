@@ -1,0 +1,9 @@
+#version 450 core
+
+in vec3 position_in;
+uniform mat4 model-view-projection;
+
+void main()
+{
+	gl_Position = model-view-projection * vec4(position_in, 1.0);
+}
